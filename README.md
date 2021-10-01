@@ -2,6 +2,6 @@
 
 This project was bootstrapped with the basic cypress framework
 
-##To run the project
+## To run the project
 
 npx cypress run
